@@ -1,0 +1,10 @@
+size,prompt
+64,Generate an exactly 64 word story about computers
+128,Generate an exactly 128 word story about computers
+256,Generate an exactly 256 word story about computers
+512,Generate an exactly 512 word story about computers
+1024,Generate an exactly 1024 word story about computers
+2048,Generate an exactly 2048 word story about computers
+4096,Generate an exactly 4096 word story about computers
+8192,Generate an exactly 8192 word story about computers
+16384,Generate an exactly 16384 word story about computers
